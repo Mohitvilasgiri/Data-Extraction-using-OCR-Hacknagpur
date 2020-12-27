@@ -1,0 +1,39 @@
+Recognizing  
+Handwritten Digits
+p
+i
+In the previous Internship Project you have seen how to apply the techniques of data 
+h
+analysis to Pandas data-frames containing numbers and strings. Indeed, data analysis is 
+not limited to numbers and strings, because images and sounds can also be analyzed 
+s
+and classified.
+n
+ Handwriting Recognition r
+e
+Recognizing handwritten text is a problem that can be traced back to the first automatic 
+machines that needed to recognize individtual characters in handwritten documents. 
+Think about, for example, the ZIP codes onn letters at the post office and the automation 
+needed to recognize these five digits. Perfect recognition of these codes is necessary in 
+order to sort mail automatically anId efficiently.
+ 
+Included  among  the  other  applications  that  may  come  to  mind  is  OCR  (Optical 
+n
+Character Recognition) software. OCR software must read handwritten text, or pages of 
+printed  books,  for  general  electronic  documents  in  which  each  character  is  well 
+e
+defined.
+But  the  problem  of  handwriting  recognition  goes  farther  back  in  time,  more 
+v
+precisely to the early 20th Century (1920s), when Emanuel Goldberg (1881–1970) began 
+his studiesu regarding this issue and suggested that a statistical approach would be an 
+optimal choice.
+STo address this issue in Python, the scikit-learn library provides a good example 
+to better understand this technique, the issues involved, and the possibility of making 
+predictions.
+This Colab Notebook from Rocky Sir's Data Science would help you to learn 
+Support Vector Machine (or SVC Supervised ML Algo). 
+https://drive.google.com/open?id=1hr-MZHyTiVRl7Jlfh51DwaO3hQgc80oe
+In this Internship doc, SVC is used. Of course, you are free to use 
+any other ML Classifier.     
+1
